@@ -1,0 +1,11 @@
+Reto2_Web\interfaces\InterfaceSupplements.class
+Reto2_Web\modelo\User.class
+Reto2_Web\repositorio\UserRepositorio.class
+Reto2_Web\Reto2WebApplication.class
+Reto2_Web\repositorio\SupplementsRepositorio.class
+Reto2_Web\interfaces\InterfaceUser.class
+Reto2_Web\modelo\Supplements.class
+Reto2_Web\controlador\SupplementsController.class
+Reto2_Web\servicio\UserService.class
+Reto2_Web\controlador\UserController.class
+Reto2_Web\servicio\SupplementsService.class
